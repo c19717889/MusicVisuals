@@ -22,7 +22,7 @@ public class AlansVisual extends Visual {
     public void setup()
     {
         startMinim();
-        loadAudio("Landscaping.wav");
+        loadAudio("JavaProject.mp3");
         colorMode(HSB);
         getAudioPlayer().play();
         audio1 = new audioA(this);
